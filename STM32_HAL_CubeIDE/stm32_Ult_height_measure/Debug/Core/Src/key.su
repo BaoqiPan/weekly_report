@@ -1,0 +1,3 @@
+../Core/Src/key.c:10:9:Key_GetNum	16	static
+../Core/Src/key.c:23:9:Key_GetState	8	static
+../Core/Src/key.c:43:6:Key_Tick	8	static

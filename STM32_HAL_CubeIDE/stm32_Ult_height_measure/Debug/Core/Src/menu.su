@@ -1,0 +1,13 @@
+../Core/Src/menu.c:27:6:Show_Main_UI	8	static
+../Core/Src/menu.c:37:9:First_Page_Home	8	static
+../Core/Src/menu.c:86:6:Show_Mode_Select_UI	16	static
+../Core/Src/menu.c:95:9:Mode_Select_Home	8	static
+../Core/Src/menu.c:145:6:Show_Single_Mode_UI	24	static
+../Core/Src/menu.c:169:9:Single_Mode_Home	16	static
+../Core/Src/menu.c:245:6:Show_Multi_Mode_UI	24	static
+../Core/Src/menu.c:263:9:Multi_Mode_Home	24	static
+../Core/Src/menu.c:348:6:Show_Data_UI	32	static
+../Core/Src/menu.c:372:9:Single_Data_Home	16	static
+../Core/Src/menu.c:412:6:Show_Select_Data_UI	16	static
+../Core/Src/menu.c:420:9:Select_Data_Home	8	static
+../Core/Src/menu.c:470:6:Calculate_Result	48	static
