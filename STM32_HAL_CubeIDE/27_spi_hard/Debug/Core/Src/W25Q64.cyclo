@@ -1,0 +1,7 @@
+../Core/Src/W25Q64.c:9:6:W25Q64_Init	1
+../Core/Src/W25Q64.c:14:6:W25Q64_ReadID	1
+../Core/Src/W25Q64.c:27:6:W25Q64_WriteEnable	1
+../Core/Src/W25Q64.c:34:6:W25Q64_WaitBusy	3
+../Core/Src/W25Q64.c:63:6:W25Q64_PageProgram	1
+../Core/Src/W25Q64.c:76:6:W25Q64_SectorErase	1
+../Core/Src/W25Q64.c:87:6:W25Q64_ReadData	1
