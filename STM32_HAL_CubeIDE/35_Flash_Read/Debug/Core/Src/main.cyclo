@@ -1,0 +1,6 @@
+../Core/Src/main.c:63:10:MyFLASH_ReadWord	1
+../Core/Src/main.c:76:10:MyFLASH_ReadHalfWord	1
+../Core/Src/main.c:89:10:MyFLASH_ReadByte	1
+../Core/Src/main.c:102:5:main	1
+../Core/Src/main.c:153:6:SystemClock_Config	3
+../Core/Src/main.c:193:6:Error_Handler	1
